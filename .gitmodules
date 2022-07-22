@@ -1,0 +1,3 @@
+[submodule "tools"]
+	path = tools
+	url = git@github.com:badgeteam/mch2022-tools.git
